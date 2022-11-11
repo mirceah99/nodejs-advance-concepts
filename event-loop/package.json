@@ -1,0 +1,11 @@
+{
+	"name": "event-loop",
+	"version": "1.0.0",
+	"description": "",
+	"main": "loop.js",
+	"scripts": {
+		"start": "set UV_THREADPOOL_SIZE=1 & node multitask.js"
+	},
+	"author": "",
+	"license": "ISC"
+}
