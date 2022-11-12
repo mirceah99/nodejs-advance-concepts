@@ -1,0 +1,7 @@
+c50 - n50 - 2 child - totalTime - 14.469 seconds / 12.510 seconds / 11.385 seconds
+c50 - n50 - 3 child - totalTime - 11.210 seconds / 8.871 seconds / 10.107 seconds
+c50 - n50 - 4 child - totalTime - 9.207 seconds / 10.875 seconds / 8.737 seconds
+c50 - n50 - 10 child - totalTime - 8.570 seconds / 9.795 seconds / 8.412 seconds
+c50 - n50 - 20 child - totalTime - 8.591 seconds / 10.614 seconds / 8.293 seconds
+c50 - n50 - 50 child - totalTime - 8.265 seconds / 8.198 seconds / 8.876 seconds
+PM2 - n50 - 50 child - totalTime - 8.221 seconds /  8.426 seconds / 8.131 seconds / 7.846 seconds / 9.101 seconds
